@@ -1,0 +1,14 @@
+*-backups/
+*.bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+_autosave-*
+*.lck
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+*.zip
+*.rar
